@@ -1,0 +1,12 @@
+{
+  "name": "time",
+  "version": "1.0.0",
+  "description": "",
+  "main": "time.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "now": "node time.js"
+  },
+  "author": "Piotr Mudło",
+  "license": "ISC"
+}
